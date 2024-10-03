@@ -6,7 +6,9 @@ const Hero = () => {
         <img src={logo} alt="logo" className="w-28 object-contain" />
         <button
           type="button"
-          onClick={() => window.open("https://github.com")}
+          onClick={() =>
+            window.open("https://github.com/vedant218/text-summary")
+          }
           className="black_btn"
         >
           Github
