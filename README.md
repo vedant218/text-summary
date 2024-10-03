@@ -67,3 +67,9 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+
+**Output**
+![image](https://github.com/user-attachments/assets/f1dcf652-c13f-4182-a789-6f655fe12afb)
+![image](https://github.com/user-attachments/assets/85403923-090d-4726-a5fb-af50a8135e11)
+
+
